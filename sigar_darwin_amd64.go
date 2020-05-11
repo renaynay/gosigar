@@ -1,3 +1,6 @@
+// +build cgo
+// +build darwin
+
 package gosigar
 
 import (

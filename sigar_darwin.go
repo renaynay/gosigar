@@ -1,5 +1,8 @@
 // Copyright (c) 2012 VMware, Inc.
 
+// +build cgo
+// +build darwin
+
 package gosigar
 
 /*
